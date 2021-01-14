@@ -1,2 +1,2 @@
-# CSE111-Object-Oriented-Programing
+# CSE165-Object-Oriented-Programing
 Objected Oriented Programming CSE 165 UC Merced
